@@ -1,7 +1,6 @@
+<img src="dev.gif" min-width="400px" max-width="400px" width="400px" align="right">
+
 ### Hi there 👋
-
-<img src="dev.gif">
-
 <!--
 **lucas-sants/lucas-sants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
